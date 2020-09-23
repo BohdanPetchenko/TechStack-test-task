@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(236, 236, 236)
+  !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.title{
+  /* margin-top: 30px; */
+}
+
+.formWrap{
+  /* margin-top: 30px; */
+  padding: 20px 30px;
+  background: rgb(204, 204, 204);
+  border-radius: 5px;
+  
+}
+
+.formButton{
+  margin-top: 30px;
+}
+
+button{
+  width: 120px;
+}
+
+.bikesWrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 145px 20px 30px;
+  background: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin-top: 15px;
+}
